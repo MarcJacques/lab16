@@ -37,7 +37,7 @@ double findCircumference(double radius)
 
 double getRadius() {
   double radius;
-  cout << "Enter the radius of the circle: " <<endl;
+  cout << "Enter the radius of the circle: ";
   cin >> radius;
 
   return radius;
